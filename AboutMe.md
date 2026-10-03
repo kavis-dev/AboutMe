@@ -6,4 +6,4 @@
 - E-Mail：kavis.tw@gmail.com
 - IG / Threads：lgc_tw
 ## 我的網站
-- [Blog](kavis-blog.pages.dev)
+- [Blog](https://blog.kavis.dev/)
